@@ -1,0 +1,4 @@
+HealPlugin/
+ ├─ src/main/java/ro/matei/heal/HealPlugin.java
+ ├─ src/main/resources/plugin.yml
+ └─ README.md
